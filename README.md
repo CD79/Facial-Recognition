@@ -1,2 +1,2 @@
 # Facial-Recognition
- Using face-recognition library
+ Using the in-built face-recognition library in python
